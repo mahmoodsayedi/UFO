@@ -6,7 +6,7 @@ The purpose of this project is to compile data from different UFO encounters aro
 This webpage is created through JavaScript, html, and css.  
 
 ## Results
-
+ 
 Here is an image of the webpage.
 
 !["UFO_overview"](https://github.com/mahmoodsayedi/UFO/blob/main/resources/UFO_overview.png)
