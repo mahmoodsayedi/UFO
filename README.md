@@ -1,5 +1,5 @@
 # UFOs Analysis
-
+  
 ## Overview    
 
 The purpose of this project is to compile data from different UFO encounters around the US and present them on one easy to use webpage.
