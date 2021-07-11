@@ -19,3 +19,4 @@ This webpage does give a great overview of UFO sightings in the US, but it does 
 
 With that being said, the two recommendations for future changes would be the implement live data functionality and be able to filter both the duration of the sighting and buzz words from the comments.
  
+ 
